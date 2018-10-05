@@ -7,3 +7,5 @@ The folder includes the following :
 1. An exhaustive Software Requirement Specifications document
 2. A client-pitch presentation of the project specifications and snippets of its prototype.
 3. A video-based prototype.
+
+The project was collectively built by : Shruti Biswal, Ishita Prakash, Shifa Khan, Deepthi B. Mariyanna
